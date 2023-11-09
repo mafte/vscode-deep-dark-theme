@@ -1,0 +1,46 @@
+{
+  "name": "deep-dark-color",
+  "displayName": "Deep Dark Blue",
+  "description": "Vscode theme",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafte/deep-dark-blue-vscode"
+  },
+  "galleryBanner": {
+    "color": "#222145",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Shades of Blue",
+    "Dark Theme",
+    "Shade of Blue",
+    "Deep blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Dark - New",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mafte-color-theme.json"
+      },
+      {
+        "label": "Deep Dark - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mafte-color-theme-purple.json"
+      },
+      {
+        "label": "Deep Dark - Blue v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mafte-color-theme-blue-v2.json"
+      }
+    ]
+  }
+}
