@@ -29,25 +29,25 @@ The theme was originally conceived with a palette of blue colors as a starting p
 ### HTML/PHP
 
 <p>
-<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/HTML-PHP.png" width="1000" alt="" />
+<img src="https://raw.githubusercontent.com/mafte/vscode-deep-dark-theme/main/images/images-content/HTML-PHP.png" width="1000" alt="" />
 </p>
 
 ### Javascript
 
 <p>
-<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/JS.png" width="1000" alt="" />
+<img src="https://raw.githubusercontent.com/mafte/vscode-deep-dark-theme/main/images/images-content/JS.png" width="1000" alt="" />
 </p>
 
 ### PHP
 
 <p>
-<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/PHP.png" width="1000" alt="" />
+<img src="https://raw.githubusercontent.com/mafte/vscode-deep-dark-theme/main/images/images-content/PHP.png" width="1000" alt="" />
 </p>
 
 ### CSS
 
 <p>
-<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/CSS.png" width="1000" alt="" />
+<img src="https://raw.githubusercontent.com/mafte/vscode-deep-dark-theme/main/images/images-content/CSS.png" width="1000" alt="" />
 </p>
 
 ## Installation

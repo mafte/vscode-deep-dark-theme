@@ -2,7 +2,7 @@
   "name": "deep-dark-color",
   "displayName": "Deep Dark Color",
   "description": "A theme featuring deep, dark colors inspired by the Atom One Dark Theme.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "publisher": "manuabi",
   "engines": {
     "vscode": "^1.78.0"
