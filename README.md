@@ -1,27 +1,27 @@
 # Deep Dark Color Theme
 
-El tema Deep Dark Color es un diseño meticuloso desde cero, utilizando una cuidadosa combinación de azules oscuros para lograr coherencia visual y centrarse especialmente en lo que más importa: el código. Se basa en la paleta de resaltado de código de [One Dark Pro](https://binaryify.github.io/OneDark-Pro), el cual es fantastico; solo se realizaron algunos ajustes para perfeccionar la experiencia.
+The Deep Dark Color theme is a meticulous design from scratch, employing a careful combination of dark blues to achieve visual coherence and focus specifically on what matters most: the code. It is based on the code highlighting palette of [One Dark Pro](https://binaryify.github.io/OneDark-Pro), which is fantastic; only a few adjustments were made to refine the experience.
 
-## Variaciones
+## Variations
 
-El tema fue concebido originalmente con una paleta de colores azules como punto de partida, junto con colores de acento diseñados para mejorar la accesibilidad en general. Esta constituye la base para otras variaciones, aunque es posible que no todas estén completamente optimizadas.
+The theme was originally conceived with a palette of blue colors as a starting point, along with accent colors designed to enhance overall accessibility. This serves as the foundation for other variations, although it's possible that not all of them are fully optimized.
 
 ### Blue
 
 <p>
-<img src="images/images-content/theme-color-1.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="images/images-content/theme-color-1.png" width="1000" alt="" />
 </p>
 
 ### Purple
 
 <p>
-<img src="images/images-content/theme-color-3.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="images/images-content/theme-color-3.png" width="1000" alt="" />
 </p>
 
 ### Teal
 
 <p>
-<img src="images/images-content/theme-color-2.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="images/images-content/theme-color-2.png" width="1000" alt="" />
 </p>
 
 ## Syntaxis
@@ -29,25 +29,25 @@ El tema fue concebido originalmente con una paleta de colores azules como punto 
 ### HTML/PHP
 
 <p>
-<img src="images/images-content/HTML-PHP.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/HTML-PHP.png" width="1000" alt="" />
 </p>
 
 ### Javascript
 
 <p>
-<img src="images/images-content/JS.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/JS.png" width="1000" alt="" />
 </p>
 
 ### PHP
 
 <p>
-<img src="images/images-content/PHP.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/PHP.png" width="1000" alt="" />
 </p>
 
 ### CSS
 
 <p>
-<img src="images/images-content/CSS.png" width="1000" alt="Watch the GitLens Getting Started video" />
+<img src="https://github.com/mafte/vscode-deep-dark-theme/blob/main/images/images-content/CSS.png" width="1000" alt="" />
 </p>
 
 ## Installation
