@@ -1,8 +1,9 @@
 {
   "name": "deep-dark-color",
-  "displayName": "Deep Dark Blue",
-  "description": "Vscode theme",
-  "version": "1.0.1",
+  "displayName": "Deep Dark Color",
+  "description": "A theme featuring deep, dark colors inspired by the Atom One Dark Theme.",
+  "version": "1.0.2",
+  "publisher": "manuabi",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,34 +13,37 @@
   "icon": "images/icon/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafte/deep-dark-blue-vscode"
+    "url": "https://github.com/mafte/vscode-deep-dark-theme"
   },
   "galleryBanner": {
     "color": "#222145",
     "theme": "dark"
   },
   "keywords": [
-    "Shades of Blue",
-    "Dark Theme",
-    "Shade of Blue",
-    "Deep blue"
+    "shades of blue",
+    "dark theme",
+    "shade of blue",
+    "deep color",
+    "purple theme",
+    "blue theme",
+    "teal theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Deep Dark - New",
+        "label": "Deep Dark Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/mafte-color-theme.json"
+        "path": "./themes/color-theme-blue.json"
       },
       {
-        "label": "Deep Dark - Purple",
+        "label": "Deep Dark Purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/mafte-color-theme-purple.json"
+        "path": "./themes/color-theme-purple.json"
       },
       {
-        "label": "Deep Dark - Blue v2",
+        "label": "Deep Dark Teal",
         "uiTheme": "vs-dark",
-        "path": "./themes/mafte-color-theme-blue-v2.json"
+        "path": "./themes/color-theme-teal.json"
       }
     ]
   }
